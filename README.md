@@ -1,5 +1,5 @@
 # cypress-smokify
-[Cypress](https://www.cypress.io/) plugin that automatically generates smoke-like tests from a project's cypress test base. By providing the percentage of tests to skip, `cypress-smokify` will file-specifically pick arbitrary tests to run.
+[Cypress](https://www.cypress.io/) plugin that automatically generates smoke-like tests from a project's cypress test base. By providing the percentage of tests to skip, `cypress-smokify` will pick file-specific arbitrary tests to run.
 
 ## Install
 1. Install the package
