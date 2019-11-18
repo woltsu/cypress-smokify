@@ -1,16 +1,30 @@
 {
   "name": "cypress-smokify",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "woltsu",
+  "license": "MIT",
   "dependencies": {
     "@cypress/browserify-preprocessor": "^2.1.1",
     "falafel": "^2.1.0",
     "through": "^2.3.8"
-  }
+  },
+  "keywords": [
+    "cypress",
+    "smokify",
+    "testing",
+    "tests",
+    "smoke",
+    "smoke testing",
+    "generate",
+    "generating",
+    "automatic",
+    "plugin",
+    "cypress-plugin"
+  ],
+  "homepage": "https://github.com/woltsu/cypress-smokify"
 }
