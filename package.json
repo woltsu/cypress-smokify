@@ -29,5 +29,6 @@
     "smoke-testing",
     "cypress-smoke-testing"
   ],
-  "homepage": "https://github.com/woltsu/cypress-smokify"
+  "homepage": "https://github.com/woltsu/cypress-smokify",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
