@@ -24,7 +24,10 @@
     "generating",
     "automatic",
     "plugin",
-    "cypress-plugin"
+    "cypress-plugin",
+    "cypress-smokify",
+    "smoke-testing",
+    "cypress-smoke-testing"
   ],
   "homepage": "https://github.com/woltsu/cypress-smokify"
 }
